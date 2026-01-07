@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm DAVID OKOTH OMONDI
 
-<!--
-**davidokoth279-boop/davidokoth279-boop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Instrumentation & Control Engineering Student  
+Solar Energy & Renewable Systems Enthusiast  
 
-Here are some ideas to get you started:
+## About Me
+- Beginner in Instrumentation and Control Engineering
+- Passionate about solar energy systems and sustainable technologies
+- Interested in measurement, monitoring, and control of solar power systems
+- Currently learning control systems, sensors, and automation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills & Tools (Learning)
+- Sensors & Transducers
+- Control Systems Fundamentals
+- Solar PV Systems Basics
+- MATLAB / Simulink
+- PLC Fundamentals
+- Python (Basics)
+- Git & GitHub
+
+## Solar Energy Projects
+- Solar PV Monitoring System (Planned)
+- MPPT Algorithm Simulation (Coming soon)
+- Temperature & Irradiance Measurement (Coming soon)
+
+## Academic & Technical Work
+- Control System Simulations
+- Instrumentation Experiments
+- Engineering Notes & Calculations
+
+## Contact
+- GitHub: https://github.com/davidokoth279-boop
